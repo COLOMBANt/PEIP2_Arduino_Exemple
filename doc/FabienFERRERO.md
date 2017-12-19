@@ -9,7 +9,7 @@ Pour les ignards, le gafophone est un instrument à corde très mélodieux.
 
 ![Gafophone](http://www.sofiahub.unice.fr/wp-content/uploads/2017/12/Visuel_Atelier_Gaffophone_2016.jpg)
 
-Durant cette séance, je cherchais les differentes techniques pour connecter le gafophone à un telephone portable.
+Durant cette séance, j'ai cherché les differentes techniques pour connecter le gafophone à un telephone portable.
 Je peux utiliser le Bluetooth ou le WIFI
 
 * Séance du 7 Janvier 2017 
