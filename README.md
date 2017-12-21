@@ -11,7 +11,7 @@ Exemple de projet Github pour les projets Arduino PEIP2
 
 # Description du projet
 
-Ce projet a pour but de monter aux étudiants de PEIP2 comment utiliser Github pour leur projet Arduino.
+Ce projet a pour but de montrer aux étudiants de PEIP2 comment utiliser Github pour leurs projets Arduino.
 
 
 # Materiel utilisé
